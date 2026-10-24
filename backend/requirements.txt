@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+reportlab
+requests
+sqlalchemy
+python-dotenvy
